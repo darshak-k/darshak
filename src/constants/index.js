@@ -131,8 +131,8 @@ const experiences = [
     date: "November 2023 - Present",
     points: [
       "Enhanced and extended functionalities in the 5+ key modules, including base, contact, invoicing, and sales, within an open-source CRM application using Java, Groovy, Spring boot, React, and PostgreSQL technologies",
-      "Enhanced CRM app with dynamic charts, customizable dashboards, interactive dashlets, language customization for a tailored user experience, optimizing data visualization and accessibility."
-      "Improved website performance and speed through optimization techniques by 20%"
+      "Enhanced CRM app with dynamic charts, customizable dashboards, interactive dashlets, language customization for a tailored user experience, optimizing data visualization and accessibility.",
+      "Improved website performance and speed through optimization techniques by 20%",
       "Employed the aspect-oriented programming (AOP) design pattern to eliminate cross-cutting concerns, reducing code clutter and duplication by 35%"
     ],
   },
