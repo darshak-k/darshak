@@ -25,7 +25,7 @@ import docker from "./tech/docker.png";
 import kubernetes from "./tech/kubernetes.png";
 
 import infosys from "./company/infosys.png";
-import axelor from "./company/axelor.png";
+import ladydavis from "./company/LadyDavis.jpg";
 
 import faultsafeguard from "./faultsafeguard.png";
 import freelancelot from "./freelancelot.png";
@@ -60,7 +60,7 @@ export {
 
 
   infosys,
-  axelor,
+  ladydavis,
 
   faultsafeguard,
   freelancelot,

@@ -19,7 +19,7 @@ import {
   datastructure,
 
   infosys,
-  axelor,
+  ladydavis,
 
   faultsafeguard,
   freelancelot,
@@ -124,15 +124,15 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Java Developer",
-    company_name: "Axelor",
-    icon: axelor,
+    title: "Senior Application Developer",
+    company_name: "Lady Davis Institute for Medical Research",
+    icon: ladydavis,
     iconBg: "#E6DEDD",
-    date: "November 2023 - Present",
+    date: "January 2024 - Present",
     points: [
-      "Developed new features in the key modules, including contact management, invoicing, and sales, within a CRM/ERP application using Java, Python, Spring boot, Angular, and PostgreSQL technologies",
-      "Enhanced CRM open-source app with dynamic charts, customizable dashboards, and interactive dashlets. Implemented language customization for a tailored user experience, optimizing data visualization and accessibility",
-      "Continuously improving system functionality by addressing new features and resolving bugs, leading to enhanced robustness and reliability in the CRM/ERP application.",
+      "Led the development of Proof of Concepts (POC), playing a pivotal role in defining Kafka architecture for asynchronous messaging and project design strategies",
+      "Automated docker container deployment and networking configurations, reducing manual intervention by 60% and enhancing system stability.",
+      "Executed Kafka integration, streamlining operations and enabling seamless asynchronous messaging communication within the system.",
     ],
   },
   {
@@ -142,10 +142,11 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Aug 2019 - Dec 2021",
     points: [
-      "Developed new back-end micro-services in Java, Python, Spring Boot, and Hibernate/Spring Data JPA.",
-      "Implemented and managed AWS DevOps pipelines to automate software delivery, infrastructure provisioning, and deployment processes.",
-      "Collaborated to code reviews, design discussions, debugging, ensuring codebase quality and adherence to standards.",
-      "Engineered and optimized APIs and event streaming solutions using Kafka, enabling the processing of 100K+ events daily.",
+      "Developed new back-end micro-services in Java, Spring Boot, and Hibernate/Spring Data JPA while creating front-end components in React.",
+      "Successfully integrated and deployed a generic micro-service for file upload with seamless integration capabilities in over 5 production projects, demonstrating its generic nature and adaptability.",
+      "Designed and executed data streaming solutions leveraging Kafka to process over 100K+ events daily for the systems. Facilitated decision-making for stakeholders and product managers through timely and relevant insights.",
+      "Collaborated to code reviews, design discussions, debugging, ensuring codebase quality and adherence to standards, resulting in a significant improvement in continuous delivery.",
+      "Developed comprehensive unit tests to verify the accurate routing of messages to the new topic, achieving a test coverage of 100% and enhancing the reliability of message delivery.",
     ],
   }
 ];
